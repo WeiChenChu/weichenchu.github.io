@@ -2,10 +2,10 @@
 
 
 ## Contact
-- E-mail: weichen01@as.edu.tw
-- GitHub: https://github.com/WeiChenChu  
-- ORCID: https://orcid.org/0000-0002-3447-9043
-- LinkedIn: https://www.linkedin.com/in/weichen-chu/
+- E-mail: [weichen01@as.edu.tw](weichen01@as.edu.tw)
+- GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
+- ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
+- LinkedIn: [https://www.linkedin.com/in/weichen-chu/](https://www.linkedin.com/in/weichen-chu/)
 - Bluesky: @weichen01.bsky.social
 - X (Twitter): @WeiChenCHU1
 

@@ -1,9 +1,9 @@
 # Wei-Chen CHU 
 
+![Weichen-photo](images/Weichen_img.jpg)
+
 ## Profile
 I specialize in teaching microscopy and bioimage analysis, (hopefully) empowering trainees to confidently perform imaging and analysis independently. 🙂
-
-<img src="images/Weichen-Photo.jpg" alt=Wei-Chen Photo" style="float: right; margin-left: 20px; margin-right: 20 px; width: 30%;">
 
 ## Contact
 - E-mail: [weichen01@as.edu.tw](mailto:weichen01@as.edu.tw)

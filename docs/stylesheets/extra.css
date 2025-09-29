@@ -1,0 +1,57 @@
+.md-header__button.md-logo img {
+  height: 4rem;
+}
+
+/* 定義卡片的基礎樣式和過渡動畫 */
+.md-typeset .grid.cards > ul > li {
+  border-radius: 10px; /* 增加圓角，看起來更柔和 */
+  border: 1px solid #e0e0e0; /* 加上細邊框，增加立體感 */
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* 動畫效果 */
+}
+
+/* 定義滑鼠懸浮時的樣式 */
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-10px); /* 向上移動 10px */
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15); /* 加上更深的陰影，營造懸浮感 */
+  border: 1px solid #fda500; /* 加上細邊框，增加立體感 */
+}
+
+
+.md-typeset .grid img {
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+
+@media screen and (min-width: 76.25em) {
+    /* 隱藏左側邊欄 */
+    .md-sidebar--primary {
+        display: none;
+    }
+}
+
+/* 圖片靠右，文字環繞 */
+.img-float-right {
+  float: right;
+  margin-left: 15px; /* 圖片左側間距 */
+  width: 30%; /* 圖片寬度 */
+}
+
+/* 圖片靠左，文字環繞 */
+.img-float-left {
+  float: left;
+  margin-right: 15px; /* 圖片右側間距 */
+  width: 30%; /* 圖片寬度 */
+}
+
+/*.md-typeset .grid img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+# 隱藏左側導覽邊欄 
+.md-sidebar--primary {
+    display: none;
+}
+
+*/

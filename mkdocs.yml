@@ -1,0 +1,65 @@
+site_name: Wei-Chen Chu's Personal Website
+site_url: https://weichenchu.com
+
+theme:
+  name: material
+  # logo: images/Weichen-Photo.jpg
+  palette: 
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        
+    - scheme: default
+      primary: blue # 設定主要顏色為藍色
+      accent: light blue # 設定強調顏色為淺藍色
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    # - navigation.instant.preview # 考慮移除，如果不需要預覽功能
+    # - navigation.instant.tracking # 考慮移除，如果不需要追蹤捲動位置
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.annotation
+    - content.code.copy
+    
+plugins:
+  - search
+  # - tags
+
+nav:
+  - Aboue me: index.md
+  # - About EABIAS: about.md # 如果不需要，可以移除
+  # - Activities: activities.md # 如果不需要，可以移除
+  # - Resources: resources.md # 如果不需要，可以移除
+  # - Microscopy DB: microscopy_db.md # 如果不需要，可以移除
+  # - Tags: tags.md
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  # - codehilite # 建議使用 pymdownx.highlight 替代
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.highlight: # 推薦的程式碼高亮擴展
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html

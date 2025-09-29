@@ -3,15 +3,15 @@
 ## Profile
 I specialize in teaching microscopy and bioimage analysis, (hopefully) empowering trainees to confidently perform imaging and analysis independently. 🙂
 
-<img src="images/Weichen-Photo.jpg" alt=Wei-Chen Photo" style="float: right; margin-left: 20px; margin-right: 150px; width: 30%;">
+<img src="images/Weichen-Photo.jpg" alt=Wei-Chen Photo" style="float: right; margin-left: 20px; margin-right: 20 px; width: 30%;">
 
 ## Contact
 - E-mail: [weichen01@as.edu.tw](mailto:weichen01@as.edu.tw)
 - GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
 - ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
 - LinkedIn: [https://www.linkedin.com/in/weichen-chu/](https://www.linkedin.com/in/weichen-chu/)
-- Bluesky: @weichen01.bsky.social
-- X (Twitter): @WeiChenCHU1
+- Bluesky: [@weichen01.bsky.social](https://bsky.app/profile/weichen01.bsky.social)
+- X (Twitter): [@WeiChenCHU1](https://x.com/WeiChenCHU1)
 
 
 

@@ -6,7 +6,7 @@ I specialize in teaching microscopy and bioimage analysis, (hopefully) empowerin
 <img src="images/Weichen-Photo.jpg" alt=Wei-Chen Photo" style="float: right; margin-left: 20px; margin-right: 150px; width: 30%;">
 
 ## Contact
-- E-mail: [weichen01@as.edu.tw](weichen01@as.edu.tw)
+- E-mail: [weichen01@as.edu.tw](mailto:weichen01@as.edu.tw)
 - GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
 - ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
 - LinkedIn: [https://www.linkedin.com/in/weichen-chu/](https://www.linkedin.com/in/weichen-chu/)

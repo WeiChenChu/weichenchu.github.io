@@ -93,31 +93,31 @@ https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/
 
 
 ## Open-Source Training Materials
-- Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop).  
+- Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop 2025)
     - Slide in English: [https://doi.org/10.5281/zenodo.15910878](https://doi.org/10.5281/zenodo.15910878)  
     - YouTube Recording (Mandarin): [https://youtu.be/qE78Yqv3UxI](https://youtu.be/qE78Yqv3UxI)
 
-- Bioimage Analysis with FIJI and AI tools (@TIGP‐INS Neuro‐imaging workshop).  
+- Bioimage Analysis with FIJI and AI tools (@TIGP‐INS Neuro‐imaging workshop 2025)  
     - Slide in English: [https://doi.org/10.5281/zenodo.15588682](https://doi.org/10.5281/zenodo.15588682)    
-    - YouTube Recording (English): https://youtu.be/nVYhvsN7Jyg
+    - YouTube Recording (English): [https://youtu.be/nVYhvsN7Jyg](https://youtu.be/nVYhvsN7Jyg)
 
-- Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event). Chu, W.-C. (2025).  
+- Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event)  
     - Zendo [https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)   
     - YouTube Recording (Mandarin): [https://youtu.be/uheSMSENnzE](https://youtu.be/uheSMSENnzE)
 
-- Introducing to Licensing for Documents and Code @EABIAS 2025 training event 
+- Introducing to Licensing for Documents and Code (@EABIAS 2025 training event)
     - Slide in English: [GitHub links](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei/blob/main/Lesson_07_Workflow/Lesson_07_Licensing_20250428_v1p1.pdf)  
 YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945](https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945)
 
-- Open source AI Tools for bioimage analysis workshop (2024) @ICOB, Academia Sinica, Taiwan.  
+- Open source AI Tools for bioimage analysis workshop (@ICOB Summer Bioimaging Workshop 2024)  
     - Slide in English:  [https://doi.org/10.5281/zenodo.13284351](https://doi.org/10.5281/zenodo.13284351)  
     - YouTube Recording (Mandarin): [https://youtu.be/KqwssouW0G0](https://youtu.be/KqwssouW0G0)
 
-- Bioimage Analysis with FIJI /ImageJ & Friends workshop (2024) @ICOB, Academia Sinica, Taiwan.  
+- Bioimage Analysis with FIJI /ImageJ & Friends workshop (@ICOB Summer Bioimaging Workshop 2024)  
     - Slide in English: [https://doi.org/10.5281/zenodo.12803966](https://doi.org/10.5281/zenodo.12803966)  
     - YouTube Recording (Mandarin): [https://youtu.be/rMRV2N81fkM](https://youtu.be/rMRV2N81fkM)  
 
-- Bioimage Analysis with FIJI /ImageJ Workshop (2023) @ICOB, Academia Sinica, Taiwan.  
+- Bioimage Analysis with FIJI /ImageJ Workshop (@ICOB Summer Bioimaging Workshop 2023)  
     - Slide in English: [https://doi.org/10.5281/zenodo.12736727](https://doi.org/10.5281/zenodo.12736727)    
     - YouTube Recording (Mandarin): [https://youtu.be/cnfW9vPQ_XI](https://youtu.be/cnfW9vPQ_XI)
 
@@ -137,6 +137,7 @@ This repository provides color palettes (.pal files) for Imaris, with a special 
 Source Code: [https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator](https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator)
 
 -  Chu, W.C., Hayashi S. (2021) Mechano-chemical enforcement of tendon apical ECM into nano-filaments during Drosophila flight muscle development. Curr. Biol. 31, 1366–1378 (Commented in Curr. Biol. 31, R330–R358)
+
 - Yeh, P.A., Liu Y.H., Chu W.C., Liu J.Y., Sun Y.H. (2018) Glial expression of disease-associated poly-glutamine proteins impairs the blood–brain barrier in Drosophila. Hum. Mol. Genet. 27, 2546-2562
 
 - Chu, W.C., Lee Y.M., Sun Y.H. (2013) FGF /FGFR signal induces trachea extension in the Drosophila visual system. PLOS ONE 8, e73878

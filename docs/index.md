@@ -44,7 +44,7 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - GPU-accelerated image processing libraries (CLIJ series in FIJI, clEsperanto in Python)
 - Developing custom image processing and analysis workflows using ImageJ Macro or Python
 
-## Member Association
+## Membership Affiliations
 - [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.github.io/)
     - Founding member
     - Website maintainer 
@@ -92,7 +92,7 @@ https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/
 
 
 
-## Open-Source Training Materials
+## Open-Access Training Materials
 - Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop 2025)
     - Slide in English: [https://doi.org/10.5281/zenodo.15910878](https://doi.org/10.5281/zenodo.15910878)  
     - YouTube Recording (Mandarin): [https://youtu.be/qE78Yqv3UxI](https://youtu.be/qE78Yqv3UxI)
@@ -122,7 +122,7 @@ YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLV
     - YouTube Recording (Mandarin): [https://youtu.be/cnfW9vPQ_XI](https://youtu.be/cnfW9vPQ_XI)
 
 
-## Open-Source Bioimaging Analysis Workflow / Tools
+## Open-Source Bioimaging Analysis Workflows / Tools
 
 - [central-nuclei-muscle-analyzer](https://github.com/WeiChenChu/central-nuclei-muscle-analyzer)  
   A comprehensive ImageJ macro for automated analysis of nuclear localization in muscle cross-sectional areas, specifically designed to identify and quantify central nuclei in muscle fibers.

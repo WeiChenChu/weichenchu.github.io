@@ -17,16 +17,16 @@
 
 ## Professional Experience
 - Imaging Core Facility, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan
-  - R&D Scientist  (Jan 2024 - Present)  
-  - Project Scientist (Oct 2021 - Dec 2023)
-  - Research Technical Employee (Sep 2021)
-  - Postdocroal Researcher (May 2021- Aug 2021)
+    - R&D Scientist  (Jan 2024 - Present)  
+    - Project Scientist (Oct 2021 - Dec 2023)
+    - Research Technical Employee (Sep 2021)
+    - Postdocroal Researcher (May 2021- Aug 2021)
 
 - RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
-  - Research Scientist (Sep 2017 - Mar 2021)
-  - Visiting Scientist (Oct 2016 - Sep 2017)  
+    - Research Scientist (Sep 2017 - Mar 2021)
+    - Visiting Scientist (Oct 2016 - Sep 2017)  
     Supported by Postdoctoral Research Abroad Program, Ministry of Science and Technology, Taiwan
-  - Research Scientist (Jul 2015 - Sep 2016)
+    - Research Scientist (Jul 2015 - Sep 2016)
 
 ## Education
 - Ph.D., Life Science  
@@ -46,15 +46,16 @@ Department of Life Science, National Chung Hsing University, Taiwan
 
 ## Member Association
 - [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.github.io/)
-  - Founding member
-  - Website maintainer 
+    - Founding member
+    - Website maintainer 
 - [GloBIAS: Global BioImage Analysts' Society](https://www.globias.org/)
-  - Ordinary member
+    - Ordinary member
 - [QUAREP-LiMi: Quality Assessment and Reproducibility for Instruments & Images in Light Microscopy](https://quarep.org/)
-  - Member
+    - Member
 
 ## Honors & Awards
-- Outstanding Employee (中央研究院工作績優人員), Academia Sinica, Taiwan  
+- Outstanding Employee 2024, Academia Sinica, Taiwan  
+(113年中央研究院工作績優人員)
 - Drosophila Image Award 2022: Honorable Mention
 - RIKEN Incentive Project FY2018
 - Postdoctoral Research Abroad Program 2016, Ministry of Science and Technology, Taiwan
@@ -62,61 +63,63 @@ Department of Life Science, National Chung Hsing University, Taiwan
 ## Attended Bioimage Analysis Training Course
 
 - In-person attendance:  
-  - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html) 
-    - NEUBIAS-Style Training, TU Dresden, Germany
-    - Selected attendance, travel supported by ICOB, Academia Sinica, Taiwan.
+    - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html) 
+          - NEUBIAS-Style Training School, TU Dresden, Germany
+          - Selected attendance, travel supported by ICOB, Academia Sinica, Taiwan.
     
-
 - Online attendance:  
-  - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/) 
-    - Young Microscopists and Image Analysts, German Bioimaging
+    - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/)  
+    (Young Microscopists and Image Analysts, German Bioimaging)
 
-  - [VMCF Bioimage Analysis and Data Processing Workshop 2024-2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html) (Viničná Microscopy Core Facility, Charles University, Czechia, )
+    - [VMCF Bioimage Analysis and Data Processing Workshop 2024-2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html)  
+  (Viničná Microscopy Core Facility, Charles University, Czechia)
 
-  - [BOMP Fundamentals of Fluorescence Microscopy 2024-2025](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources) (Biological Optical Microscopy Platform, University of Melbourne) 
+    - [BOMP Fundamentals of Fluorescence Microscopy 2024-2025](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources)  
+  (Biological Optical Microscopy Platform, University of Melbourne)
 
-  - [LIBRE hub: Image data science with Python and Napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html#)
+    - [LIBRE hub: Image data science with Python and Napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html#)
 
-## Organizing Bioimage Analysis Traing Event
+## Organizing Bioimage Analysis Traing Course
 
 - ICOB imaging Core summer imaging workshops
-  - [ICOB core YouTube Playlist](https://www.youtube.com/@icobcore/playlists)
+    - [ICOB core YouTube Playlist](https://www.youtube.com/@icobcore/playlists)
 
 - EABIAS Training event:
-  - [Python for Bioimage Analysis -Watch Party & Discussion](  
+    - [Python for Bioimage Analysis -Watch Party & Discussion](  
 https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
 
-  - [ImageJ 顯微影像分析與程式設計](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
+    - [ImageJ 顯微影像分析與程式設計](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
 
 
 
 ## Open-Source Training Materials
 - Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop).  
-Chu, W.-C. (2025). Zenodo. [https://doi.org/10.5281/zenodo.15910878](https://doi.org/10.5281/zenodo.15910878)  
-Video recording on YouTube: [https://youtu.be/qE78Yqv3UxI](https://youtu.be/qE78Yqv3UxI)
+    - Slide in English: [https://doi.org/10.5281/zenodo.15910878](https://doi.org/10.5281/zenodo.15910878)  
+    - YouTube Recording (Mandarin): [https://youtu.be/qE78Yqv3UxI](https://youtu.be/qE78Yqv3UxI)
 
 - Bioimage Analysis with FIJI and AI tools (@TIGP‐INS Neuro‐imaging workshop).  
-Chu, W.-C. (2025). Zenodo. [https://doi.org/10.5281/zenodo.15588682](https://doi.org/10.5281/zenodo.15588682)    
-Video recording on YouTube: https://youtu.be/nVYhvsN7Jyg
+    - Slide in English: [https://doi.org/10.5281/zenodo.15588682](https://doi.org/10.5281/zenodo.15588682)    
+    - YouTube Recording (English): https://youtu.be/nVYhvsN7Jyg
 
 - Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event). Chu, W.-C. (2025).  
-Zendo [https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)   
-Video recording on YouTube: [https://youtu.be/uheSMSENnzE](https://youtu.be/uheSMSENnzE)
+    - Zendo [https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)   
+    - YouTube Recording (Mandarin): [https://youtu.be/uheSMSENnzE](https://youtu.be/uheSMSENnzE)
 
-- [Introducing to Licensing for Documents and Code @EABIAS 2025 training event](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei/blob/main/Lesson_07_Workflow/Lesson_07_Licensing_20250428_v1p1.pdf)  
-Video recording on YouTube: [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945](https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945)
+- Introducing to Licensing for Documents and Code @EABIAS 2025 training event 
+    - Slide in English: [GitHub links](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei/blob/main/Lesson_07_Workflow/Lesson_07_Licensing_20250428_v1p1.pdf)  
+YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945](https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945)
 
 - Open source AI Tools for bioimage analysis workshop (2024) @ICOB, Academia Sinica, Taiwan.  
-Chu, W.-C. (2024). Zenodo. [https://doi.org/10.5281/zenodo.13284351](https://doi.org/10.5281/zenodo.13284351)  
-Video recording public on YouTube: [https://youtu.be/KqwssouW0G0](https://youtu.be/KqwssouW0G0)
+    - Slide in English:  [https://doi.org/10.5281/zenodo.13284351](https://doi.org/10.5281/zenodo.13284351)  
+    - YouTube Recording (Mandarin): [https://youtu.be/KqwssouW0G0](https://youtu.be/KqwssouW0G0)
 
 - Bioimage Analysis with FIJI /ImageJ & Friends workshop (2024) @ICOB, Academia Sinica, Taiwan.  
-Chu, W.-C. (2024). Zenodo. [https://doi.org/10.5281/zenodo.12803966](https://doi.org/10.5281/zenodo.12803966)  
-Video recording public on YouTube: [https://youtu.be/rMRV2N81fkM](https://youtu.be/rMRV2N81fkM)  
+    - Slide in English: [https://doi.org/10.5281/zenodo.12803966](https://doi.org/10.5281/zenodo.12803966)  
+    - YouTube Recording (Mandarin): [https://youtu.be/rMRV2N81fkM](https://youtu.be/rMRV2N81fkM)  
 
 - Bioimage Analysis with FIJI /ImageJ Workshop (2023) @ICOB, Academia Sinica, Taiwan.  
-Chu, W.-C. (2023). Zenodo. [https://doi.org/10.5281/zenodo.12736727](https://doi.org/10.5281/zenodo.12736727)    
-Video Recording public on YouTube: [https://youtu.be/cnfW9vPQ_XI](https://youtu.be/cnfW9vPQ_XI)
+    - Slide in English: [https://doi.org/10.5281/zenodo.12736727](https://doi.org/10.5281/zenodo.12736727)    
+    - YouTube Recording (Mandarin): [https://youtu.be/cnfW9vPQ_XI](https://youtu.be/cnfW9vPQ_XI)
 
 
 ## Open-Source Bioimaging Analysis Workflow / Tools

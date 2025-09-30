@@ -121,10 +121,11 @@ YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLV
 
 
 ## Open-Source Bioimaging Analysis Workflows / Tools
-- [https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator](https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator)
+- [Cell_Dist_Mesh_Generator](https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator)  
+This repository hosts a FIJI/ImageJ macro tailored for the automated generation of distance meshes between cells, aiding in quantitative visualization.
 
 - [central-nuclei-muscle-analyzer](https://github.com/WeiChenChu/central-nuclei-muscle-analyzer)  
-  A comprehensive ImageJ macro for automated analysis of nuclear localization in muscle cross-sectional areas, specifically designed to identify and quantify central nuclei in muscle fibers.
+A comprehensive ImageJ macro for automated analysis of nuclear localization in muscle cross-sectional areas, specifically designed to identify and quantify central nuclei in muscle fibers.
 
 - [IJ_Hot_LUTs_palette](https://github.com/WeiChenChu/IJ_Hot_LUTs_palette)  
 This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.

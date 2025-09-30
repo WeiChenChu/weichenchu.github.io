@@ -3,7 +3,8 @@
 ![Weichen-photo](images/Weichen_img.jpg)
 
 ## Profile
-I specialize in teaching microscopy and bioimage analysis, (hopefully) empowering trainees to confidently perform imaging and analysis independently. 🙂
+- I'm an Imaging Core Facility Manager and Bioimage Analyst passionate about empowering researchers to generate high-quality imaging data and develop reproducible analysis workflows. I teach confocal microscopy and bioimage analysis with FIJI and AI tools, equipping trainees with the skills to independently plan, acquire, and troubleshoot their experiments. As part of my commitment to open science, I develop and share open-access training materials. Beyond training, I design and implement custom bioimage analysis workflows and provide expert consultation for advanced imaging projects. 
+- If you’re interested in collaboration, or consulting on bioimaging analysis projects, I’d love to connect.🙂
 
 ## Contact
 - E-mail: [weichen01@as.edu.tw](mailto:weichen01@as.edu.tw)
@@ -14,20 +15,18 @@ I specialize in teaching microscopy and bioimage analysis, (hopefully) empowerin
 - X (Twitter): [@WeiChenCHU1](https://x.com/WeiChenCHU1)
 
 
-
 ## Professional Experience
-Imaging Core Facility, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan
+- Imaging Core Facility, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan
+  - R&D Scientist  (Jan 2024 - Present)  
+  - Project Scientist (Oct 2021 - Dec 2023)
+  - Research Technical Employee (Sep 2021)
+  - Postdocroal Researcher (May 2021- Aug 2021)
 
-- R&D Scientist  (Jan 2024 - Present)  
-- Project Scientist (Oct 2021 - Dec 2023)
-- Research Technical Employee (Sep 2021)
-- Postdocroal Researcher (May 2021- Aug 2021)
-
-RIKEN Center for Biosystems Dynamics Research (BDR), Japan
-- Research Scientist (Sep 2017 - Mar 2021)
-- Visiting Scientist (Oct 2016 - Sep 2017)  
-  Supported by Postdoctoral Research Abroad Program, Ministry of Science and Technology, Taiwan
-- Research Scientist (Jul 2015 - Sep 2016)
+- RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
+  - Research Scientist (Sep 2017 - Mar 2021)
+  - Visiting Scientist (Oct 2016 - Sep 2017)  
+    Supported by Postdoctoral Research Abroad Program, Ministry of Science and Technology, Taiwan
+  - Research Scientist (Jul 2015 - Sep 2016)
 
 ## Education
 - Ph.D., Life Science  
@@ -38,7 +37,7 @@ Department of Life Science, National Chung Hsing University, Taiwan
 Department of Life Science, National Chung Hsing University, Taiwan
 
 
-## Skills
+## Core Skills
 - Confocal Microscopy/ Fluorescence microscopy
 - Immunofluorescence, fluorescence protein tagging
 - Bio-Image processing and analysis using FIJI/ ImageJ, Napari and Imaris
@@ -46,38 +45,50 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - Developing custom image processing and analysis workflows using ImageJ Macro or Python
 
 ## Member Association
-- [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.github.io/), founding member, website maintainer 
-- [GloBIAS: Global BioImage Analysts' Society](https://www.globias.org/), ordinary member
-- [QUAREP-LiMi: Quality Assessment and Reproducibility for Instruments & Images in Light Microscopy](https://quarep.org/), member
+- [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.github.io/)
+  - Founding member
+  - Website maintainer 
+- [GloBIAS: Global BioImage Analysts' Society](https://www.globias.org/)
+  - Ordinary member
+- [QUAREP-LiMi: Quality Assessment and Reproducibility for Instruments & Images in Light Microscopy](https://quarep.org/)
+  - Member
 
 ## Honors & Awards
-- Outstanding Employee, Academia Sinica, Taiwan  
-(中央研究院工作績優人員)  
+- Outstanding Employee (中央研究院工作績優人員), Academia Sinica, Taiwan  
 - Drosophila Image Award 2022: Honorable Mention
 - RIKEN Incentive Project FY2018
 - Postdoctoral Research Abroad Program 2016, Ministry of Science and Technology, Taiwan
 
 ## Attended Bioimage Analysis Training Course
 
-### In-person attendance:  
-- [PoL Bio-Image Analysis Training School: Early Career Track](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html) (NEUBIAS-Style Training, TU Dresden, Germany, Selected in-person attendance, 2023)
+- In-person attendance:  
+  - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html) 
+    - NEUBIAS-Style Training, TU Dresden, Germany
+    - Selected attendance, travel supported by ICOB, Academia Sinica, Taiwan.
+    
 
-### Online attendance:  
-- [YMIA: Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/) (Young Microscopists and Image Analysts, German Bioimaging)
+- Online attendance:  
+  - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/) 
+    - Young Microscopists and Image Analysts, German Bioimaging
 
-- [VMCF: Bioimage Analysis and Data Processing Workshop 2024-2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html) (Viničná Microscopy Core Facility, Charles University, Czechia, )
+  - [VMCF Bioimage Analysis and Data Processing Workshop 2024-2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html) (Viničná Microscopy Core Facility, Charles University, Czechia, )
 
-- [BOMP: Fundamentals of Fluorescence Microscopy 2024-2025](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources) (Biological Optical Microscopy Platform, University of Melbourne) 
+  - [BOMP Fundamentals of Fluorescence Microscopy 2024-2025](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources) (Biological Optical Microscopy Platform, University of Melbourne) 
 
-- [LIBRE hub: Image data science with Python and Napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html#)
+  - [LIBRE hub: Image data science with Python and Napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html#)
 
-## Organizing Bioimage Analysis 
-- [EABIAS Training event: 
-Python for Bioimage Analysis -Watch Party & Discussion](  
+## Organizing Bioimage Analysis Traing Event
+
+- ICOB imaging Core summer imaging workshops
+  - [ICOB core YouTube Playlist](https://www.youtube.com/@icobcore/playlists)
+
+- EABIAS Training event:
+  - [Python for Bioimage Analysis -Watch Party & Discussion](  
 https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
 
-- [EABIAS Training event: ImageJ 顯微影像分析與程式設計](
-https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
+  - [ImageJ 顯微影像分析與程式設計](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
+
+
 
 ## Open-Source Training Materials
 - Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop).  
@@ -106,6 +117,15 @@ Video recording public on YouTube: [https://youtu.be/rMRV2N81fkM](https://youtu.
 - Bioimage Analysis with FIJI /ImageJ Workshop (2023) @ICOB, Academia Sinica, Taiwan.  
 Chu, W.-C. (2023). Zenodo. [https://doi.org/10.5281/zenodo.12736727](https://doi.org/10.5281/zenodo.12736727)    
 Video Recording public on YouTube: [https://youtu.be/cnfW9vPQ_XI](https://youtu.be/cnfW9vPQ_XI)
+
+
+## Open-Source Bioimaging Analysis Workflow / Tools
+
+- [central-nuclei-muscle-analyzer](https://github.com/WeiChenChu/central-nuclei-muscle-analyzer)  
+  A comprehensive ImageJ macro for automated analysis of nuclear localization in muscle cross-sectional areas, specifically designed to identify and quantify central nuclei in muscle fibers.
+
+- [IJ_Hot_LUTs_palette](https://github.com/WeiChenChu/IJ_Hot_LUTs_palette)  
+This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.
 
 
 ## Publications 

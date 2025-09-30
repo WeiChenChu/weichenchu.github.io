@@ -8,8 +8,6 @@
 
 ## Contact
 - E-mail: [weichen01@as.edu.tw](mailto:weichen01@as.edu.tw)
-- GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
-- ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
 - LinkedIn: [https://www.linkedin.com/in/weichen-chu/](https://www.linkedin.com/in/weichen-chu/)
 - Bluesky: [@weichen01.bsky.social](https://bsky.app/profile/weichen01.bsky.social)
 - X (Twitter): [@WeiChenCHU1](https://x.com/WeiChenCHU1)
@@ -123,6 +121,7 @@ YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLV
 
 
 ## Open-Source Bioimaging Analysis Workflows / Tools
+- [https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator](https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator)
 
 - [central-nuclei-muscle-analyzer](https://github.com/WeiChenChu/central-nuclei-muscle-analyzer)  
   A comprehensive ImageJ macro for automated analysis of nuclear localization in muscle cross-sectional areas, specifically designed to identify and quantify central nuclei in muscle fibers.
@@ -130,14 +129,6 @@ YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLV
 - [IJ_Hot_LUTs_palette](https://github.com/WeiChenChu/IJ_Hot_LUTs_palette)  
 This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.
 
-
-## Publications 
-
-- Santoso, F., De Leon, M.P., Kao, W.C., Chu, W.C., Roan, H.Y., Lee, G.H., Tang, M.J., Cheng, J.Y., and Chen, C.H. (2024). Appendage-resident epithelial cells expedite wound healing response in adult zebrafish. Curr Biol 34, 3603-3615.e3604. 10.1016/j.cub.2024.06.051.  
-Source Code: [https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator](https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator)
-
--  Chu, W.C., Hayashi S. (2021) Mechano-chemical enforcement of tendon apical ECM into nano-filaments during Drosophila flight muscle development. Curr. Biol. 31, 1366–1378 (Commented in Curr. Biol. 31, R330–R358)
-
-- Yeh, P.A., Liu Y.H., Chu W.C., Liu J.Y., Sun Y.H. (2018) Glial expression of disease-associated poly-glutamine proteins impairs the blood–brain barrier in Drosophila. Hum. Mol. Genet. 27, 2546-2562
-
-- Chu, W.C., Lee Y.M., Sun Y.H. (2013) FGF /FGFR signal induces trachea extension in the Drosophila visual system. PLOS ONE 8, e73878
+## Publications  
+- ORCID [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
+- GitHub [https://github.com/WeiChenChu](https://github.com/WeiChenChu)

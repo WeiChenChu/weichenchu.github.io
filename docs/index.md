@@ -130,5 +130,5 @@ YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLV
 This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.
 
 ## Publications  
-- ORCID [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
-- GitHub [https://github.com/WeiChenChu](https://github.com/WeiChenChu)
+- ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
+- GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)

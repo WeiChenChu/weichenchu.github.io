@@ -54,16 +54,20 @@ Department of Life Science, National Chung Hsing University, Taiwan
 ## Honors & Awards
 - Outstanding Employee 2024, Academia Sinica, Taiwan  
 (113年中央研究院工作績優人員)
-- Drosophila Image Award 2022: Honorable Mention
+- [Drosophila Image Award 2022: Honorable Mention](https://drosophila-images.org/2022-2/)
 - RIKEN Incentive Project FY2018
 - Postdoctoral Research Abroad Program 2016, Ministry of Science and Technology, Taiwan
 
 ## Attended Bioimage Analysis Training Course
 
 - In-person attendance:  
-    - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html) 
-          - NEUBIAS-Style Training School, TU Dresden, Germany
-          - Selected attendance, travel supported by ICOB, Academia Sinica, Taiwan.
+    - [GloBIAS Bioimage Analysis Training School 2025](https://github.com/GloBIAS-BioimageAnalysts/GloBIAS_Training_School_2025_Kobe_Japan)
+        - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
+        - Award for the projection presentation (with Shao-Chun Peggy Hsu, Ji-Ying Huang, Jen-Chien Chang, Yung-Li Chen, and Saumya Agrawal)
+
+    - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)  
+        - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
+        - NEUBIAS-Style Training School, TU Dresden, Germany  
     
 - Online attendance:  
     - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/)  
@@ -129,6 +133,9 @@ A comprehensive ImageJ macro for automated analysis of nuclear localization in m
 
 - [IJ_Hot_LUTs_palette](https://github.com/WeiChenChu/IJ_Hot_LUTs_palette)  
 This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.
+
+## Invited Talk
+- Building the East Asia Bioimage Analysts’ Society (EABIAS) @[GloBIAS Bioimage Analysis Conference 2025, Kobe, Japan](https://docs.google.com/document/d/e/2PACX-1vSxrytpZNqloqOgevmWWrARxpKJdSnL288EaVx300gzh92NBd2qrvGR6FrvFXtnEah7-z40UIYev_25/pub)
 
 ## Publications  
 - ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)

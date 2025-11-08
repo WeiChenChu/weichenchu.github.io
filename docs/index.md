@@ -43,7 +43,7 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - Developing custom image processing and analysis workflows using ImageJ Macro or Python
 
 ## Membership Affiliations
-- [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.github.io/)
+- [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.org/)
     - Founding member
     - Website maintainer 
 - [GloBIAS: Global BioImage Analysts' Society](https://www.globias.org/)
@@ -68,6 +68,9 @@ Department of Life Science, National Chung Hsing University, Taiwan
     - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)  
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
         - NEUBIAS-Style Training School, TU Dresden, Germany  
+    - [Bioimage Analysis Workshop 2023 @ICOB](https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24)
+        - Python-based bioimage analysis workshop
+        - Trainee, Assistant and Event Organizer (with Dr.Jung-Kun WEN)
     
 - Online attendance:  
     - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/)  
@@ -135,7 +138,9 @@ A comprehensive ImageJ macro for automated analysis of nuclear localization in m
 This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.
 
 ## Invited Talk
-- Building the East Asia Bioimage Analysts’ Society (EABIAS) @[GloBIAS Bioimage Analysis Conference 2025, Kobe, Japan](https://docs.google.com/document/d/e/2PACX-1vSxrytpZNqloqOgevmWWrARxpKJdSnL288EaVx300gzh92NBd2qrvGR6FrvFXtnEah7-z40UIYev_25/pub)
+- [Building the East Asia Bioimage Analysts’ Society (EABIAS)](https://docs.google.com/presentation/d/1guWtwqVD0FLQgkapyT2RXuYfCRE3TQLKd2AjV4NpYWk/edit?usp=sharing)  
+    - Joint Presentation with [Dr. Shao-Chun Peggy HSU](https://site-4702296-3964-7090.mystrikingly.com/)
+    - [@GloBIAS Bioimage Analysis Conference 2025, Kobe, Japan](https://docs.google.com/document/d/e/2PACX-1vSxrytpZNqloqOgevmWWrARxpKJdSnL288EaVx300gzh92NBd2qrvGR6FrvFXtnEah7-z40UIYev_25/pub)  
 
 ## Publications  
 - ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)

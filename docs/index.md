@@ -63,14 +63,14 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - In-person attendance:  
     - [GloBIAS Bioimage Analysis Training School 2025](https://github.com/GloBIAS-BioimageAnalysts/GloBIAS_Training_School_2025_Kobe_Japan)
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
-        - Award for the projection presentation (with Shao-Chun Peggy Hsu, Ji-Ying Huang, Jen-Chien Chang, Yung-Li Chen, and Saumya Agrawal)
+        - Award for the projection presentation (with Shao-Chun Peggy HSU, Ji-Ying HUANG, Jen-Chien CHANG, Yung-Li CHEN, and Saumya AGRAWAL)
 
     - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)  
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
         - NEUBIAS-Style Training School, TU Dresden, Germany  
     - [Bioimage Analysis Workshop 2023 @ICOB](https://github.com/Koushouu/Bioimage-Analysis-Workshop-23-24)
         - Python-based bioimage analysis workshop
-        - Trainee, Assistant and Event Organizer (with Dr.Jung-Kun WEN)
+        - Trainee, Assistant and Event Organizer (with Dr. Jung-Kun WEN)
     
 - Online attendance:  
     - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/)  
@@ -138,7 +138,7 @@ A comprehensive ImageJ macro for automated analysis of nuclear localization in m
 This repository provides color palettes (.pal files) for Imaris, with a special focus on the popular "Hot" series of Look-Up Tables (LUTs) from ImageJ/Fiji. These LUTs are excellent for visualization.
 
 ## Invited Talk
-- [Building the East Asia Bioimage Analysts’ Society (EABIAS)](https://docs.google.com/presentation/d/1guWtwqVD0FLQgkapyT2RXuYfCRE3TQLKd2AjV4NpYWk/edit?usp=sharing)  
+- [Building the East Asia Bioimage Analysts’ Society (EABIAS)](https://docs.google.com/presentation/d/1lt0MVN4s0Z0LY4LVQeyV24k9ktVzYvwc/edit?usp=sharing&ouid=100383656030708613641&rtpof=true&sd=true)  
     - Joint Presentation with [Dr. Shao-Chun Peggy HSU](https://site-4702296-3964-7090.mystrikingly.com/)
     - [@GloBIAS Bioimage Analysis Conference 2025, Kobe, Japan](https://docs.google.com/document/d/e/2PACX-1vSxrytpZNqloqOgevmWWrARxpKJdSnL288EaVx300gzh92NBd2qrvGR6FrvFXtnEah7-z40UIYev_25/pub)  
 

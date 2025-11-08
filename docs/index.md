@@ -63,7 +63,7 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - In-person attendance:  
     - [GloBIAS Bioimage Analysis Training School 2025](https://github.com/GloBIAS-BioimageAnalysts/GloBIAS_Training_School_2025_Kobe_Japan)
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
-        - Award for the projection presentation (with Shao-Chun Peggy HSU, Ji-Ying HUANG, Jen-Chien CHANG, Yung-Li CHEN, and Saumya AGRAWAL)
+        - [Award for the projection presentation (with Shao-Chun Peggy HSU, Ji-Ying HUANG, Jen-Chien CHANG, Yung-Li CHEN, and Saumya AGRAWAL)](images/GloBIAS_2025_TS_Award.jpg)
 
     - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)  
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
@@ -139,8 +139,8 @@ This repository provides color palettes (.pal files) for Imaris, with a special 
 
 ## Invited Talk
 - [Building the East Asia Bioimage Analysts’ Society (EABIAS)](https://docs.google.com/presentation/d/1lt0MVN4s0Z0LY4LVQeyV24k9ktVzYvwc/edit?usp=sharing&ouid=100383656030708613641&rtpof=true&sd=true)  
-    - Joint Presentation with [Dr. Shao-Chun Peggy HSU](https://site-4702296-3964-7090.mystrikingly.com/)
     - [@GloBIAS Bioimage Analysis Conference 2025, Kobe, Japan](https://docs.google.com/document/d/e/2PACX-1vSxrytpZNqloqOgevmWWrARxpKJdSnL288EaVx300gzh92NBd2qrvGR6FrvFXtnEah7-z40UIYev_25/pub)  
+    - Joint Presentation with [Dr. Shao-Chun Peggy HSU](https://site-4702296-3964-7090.mystrikingly.com/)  
 
 ## Publications  
 - ORCID: [https://orcid.org/0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)

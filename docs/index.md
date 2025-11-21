@@ -61,9 +61,13 @@ Department of Life Science, National Chung Hsing University, Taiwan
 ## Attended Bioimage Analysis Training Course
 
 - In-person attendance:  
+    - [Global BioImaging Train-the-Trainer 2025 Course](https://globalbioimaging.org/international-training-courses/train-the-trainer-australia-2025)  
+        - Supported by [Global Bioimaging Travel Grant](images/honors/Weichen_GBI_TtT_Invitation.pdf)
+
+
     - [GloBIAS Bioimage Analysis Training School 2025](https://github.com/GloBIAS-BioimageAnalysts/GloBIAS_Training_School_2025_Kobe_Japan)
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
-        - [Award for the projection presentation (with Shao-Chun Peggy HSU, Ji-Ying HUANG, Jen-Chien CHANG, Yung-Li CHEN, and Saumya AGRAWAL)](images/GloBIAS_2025_TS_Award.jpg)
+        - Award for the projection presentation [(Group work with Shao-Chun Peggy HSU, Ji-Ying HUANG, Jen-Chien CHANG, Yung-Li CHEN, and Saumya AGRAWAL)](images/honors/GloBIAS_2025_TS_Award.jpg)
 
     - [PoL Bio-Image Analysis Training School 2023 (Early Career Track)](https://biapol.github.io/PoL-BioImage-Analysis-TS-Early-Career-Track/intro.html)  
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  

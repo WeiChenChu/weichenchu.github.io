@@ -1,16 +1,26 @@
-# Wei-Chen CHU 
+<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;" markdown>
+<div style="flex: 1;" markdown>
 
-![Weichen-photo](images/Weichen_img.jpg)
+# Wei-Chen CHU, Ph.D.
 
-## Profile
-- I'm an Imaging Core Facility Manager and Bioimage Analyst passionate about empowering researchers to generate high-quality imaging data and develop reproducible analysis workflows. I teach confocal microscopy and bioimage analysis with FIJI and AI tools, equipping trainees with the skills to independently plan, acquire, and troubleshoot their experiments. As part of my commitment to open science, I develop and share open-access training materials. Beyond training, I design and implement custom bioimage analysis workflows and provide expert consultation for advanced imaging projects. 
-- If you’re interested in collaboration, or consulting on bioimaging analysis projects, I’d love to connect.🙂
-
-## Contact
+- R&D Scientist    
+ICOB Imaging Core, Academia Sinica, Taiwan
 - E-mail: [weichen01@as.edu.tw](mailto:weichen01@as.edu.tw)
 - LinkedIn: [https://www.linkedin.com/in/weichen-chu/](https://www.linkedin.com/in/weichen-chu/)
 - Bluesky: [@weichen01.bsky.social](https://bsky.app/profile/weichen01.bsky.social)
 - X (Twitter): [@WeiChenCHU1](https://x.com/WeiChenCHU1)
+
+</div>
+<div style="width: 500px;" markdown>
+
+![Weichen-photo](images/Weichen_img.jpg)
+
+</div>
+</div>
+
+## Profile
+- I'm an Imaging Core Facility Manager and Bioimage Analyst passionate about empowering researchers to generate high-quality imaging data and develop reproducible analysis workflows. I teach confocal microscopy and bioimage analysis with FIJI and AI tools, equipping trainees with the skills to independently plan, acquire, and troubleshoot their experiments. As part of my commitment to open science, I develop and share open-access training materials. Beyond training, I design and implement custom bioimage analysis workflows and provide expert consultation for advanced imaging projects. 
+- If you’re interested in collaboration, or consulting on bioimaging analysis projects, I’d love to connect.🙂
 
 
 ## Professional Experience
@@ -58,7 +68,7 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - RIKEN Incentive Project FY2018
 - Postdoctoral Research Abroad Program 2016, Ministry of Science and Technology, Taiwan
 
-## Attended Bioimage Analysis Training Course
+## Attended Bioimaing and Bioimage Analysis Training Course
 
 - In-person attendance:  
     - [Global BioImaging Train-the-Trainer 2025 Course](https://globalbioimaging.org/international-training-courses/train-the-trainer-australia-2025)  

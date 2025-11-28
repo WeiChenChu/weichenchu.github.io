@@ -1,5 +1,5 @@
-<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;" markdown>
-<div style="flex: 1;" markdown>
+<div class="profile-header">
+<div class="text" markdown>
 
 # Wei-Chen CHU, Ph.D.
 
@@ -11,12 +11,11 @@ ICOB Imaging Core, Academia Sinica, Taiwan
 - X (Twitter): [@WeiChenCHU1](https://x.com/WeiChenCHU1)
 
 </div>
-<div style="width: 500px;" markdown>
-
-![Weichen-photo](images/Weichen_img.jpg)
-
+<div class="photo">
+<img src="images/Weichen_img.jpg" alt="Weichen-photo">
 </div>
 </div>
+
 
 ## Profile
 - I'm an Imaging Core Facility Manager and Bioimage Analyst passionate about empowering researchers to generate high-quality imaging data and develop reproducible analysis workflows. I teach confocal microscopy and bioimage analysis with FIJI and AI tools, equipping trainees with the skills to independently plan, acquire, and troubleshoot their experiments. As part of my commitment to open science, I develop and share open-access training materials. Beyond training, I design and implement custom bioimage analysis workflows and provide expert consultation for advanced imaging projects. 

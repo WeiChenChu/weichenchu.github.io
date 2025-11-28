@@ -1,3 +1,38 @@
+.profile-header {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.profile-header .text {
+  flex: 1;
+}
+
+.profile-header .photo {
+  width: 300px;
+  flex-shrink: 0;
+}
+
+.profile-header .photo img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* 手機版：改成上下排列 */
+@media (max-width: 768px) {
+  .profile-header {
+    flex-direction: column;
+  }
+  
+  .profile-header .photo {
+    width: 180px;
+    order: -1;  /* 圖片移到上方 */
+  }
+}
+
+
+
 .md-header__button.md-logo img {
   height: 4rem;
 }

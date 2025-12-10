@@ -68,7 +68,7 @@ Department of Life Science, National Chung Hsing University, Taiwan
 ## Attended Bioimaing and Bioimage Analysis Training Course
 
 - In-person attendance:  
-    - [Global BioImaging Train-the-Trainer 2025 Course](https://globalbioimaging.org/international-training-courses/train-the-trainer-australia-2025)  
+    - [Global BioImaging Train-the-Trainer 2025 Course](images/honors/Weichen_GBI_TtT_Participation.pdf)  
         - Supported by [Global Bioimaging Travel Grant](images/honors/Weichen_GBI_TtT_Invitation.pdf)
 
 

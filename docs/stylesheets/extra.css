@@ -10,7 +10,7 @@
 }
 
 .profile-header .photo {
-  width: 600px;
+  width: 450px; /* 改這個數值調整圖片大小 */
   flex-shrink: 0;
 }
 

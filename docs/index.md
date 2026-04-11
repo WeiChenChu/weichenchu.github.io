@@ -49,6 +49,13 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - GPU-accelerated image processing libraries (CLIJ series in FIJI, clEsperanto in Python)
 - Developing custom image processing and analysis workflows using ImageJ Macro or Python
 
+## Honors & Awards
+- Outstanding Employee 2024, Academia Sinica, Taiwan  
+(113年中央研究院工作績優人員)
+- [Drosophila Image Award 2022: Honorable Mention](https://drosophila-images.org/2022-2/)
+- RIKEN Incentive Project FY2018
+- Postdoctoral Research Abroad Program 2016, Ministry of Science and Technology, Taiwan
+
 ## Membership Affiliations
 - [EABIAS: East Asia Bioimage Analysts’ Society](https://eabias.org/)
     - Founding member
@@ -58,19 +65,24 @@ Department of Life Science, National Chung Hsing University, Taiwan
 - [QUAREP-LiMi: Quality Assessment and Reproducibility for Instruments & Images in Light Microscopy](https://quarep.org/)
     - Member
 
-## Honors & Awards
-- Outstanding Employee 2024, Academia Sinica, Taiwan  
-(113年中央研究院工作績優人員)
-- [Drosophila Image Award 2022: Honorable Mention](https://drosophila-images.org/2022-2/)
-- RIKEN Incentive Project FY2018
-- Postdoctoral Research Abroad Program 2016, Ministry of Science and Technology, Taiwan
+## Organizing Bioimage Analysis Traing Course
+- ICOB imaging Core summer imaging workshops (2021-present)
+    - [ICOB imaging core learning resource collection](https://getupnote.com/share/notes/N6hHwRcoQthOYIy9a8LANC7GxmT2/f26750fe-fd45-4b39-8b55-8791fc8de73d)
+    - [ICOB core YouTube Playlist](https://www.youtube.com/@icobcore/playlists)
+
+- EABIAS Training event:
+    - [Python and napari 2026](https://github.com/EABIAS/2026-Python-Napari-Image-Analysis_Taipei) 
+
+    - [Python for Bioimage Analysis -Watch Party & Discussion 2025](  
+https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
+
+    - [ImageJ Micro Image Analysis and programming 2025](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
 
 ## Attended Bioimaing and Bioimage Analysis Training Course
-
 - In-person attendance:  
+
     - [Global BioImaging Train-the-Trainer 2025 Course](images/honors/Weichen_GBI_TtT_Participation.pdf)  
         - Supported by [Global Bioimaging Travel Grant](images/honors/Weichen_GBI_TtT_Invitation.pdf)
-
 
     - [GloBIAS Bioimage Analysis Training School 2025](https://github.com/GloBIAS-BioimageAnalysts/GloBIAS_Training_School_2025_Kobe_Japan)
         - Selected trainee, travel supported by ICOB, Academia Sinica, Taiwan  
@@ -84,6 +96,9 @@ Department of Life Science, National Chung Hsing University, Taiwan
         - Trainee, Assistant and Event Organizer (with Dr. Jung-Kun WEN)
     
 - Online attendance:  
+    - [Introduction to napari workshop (2026)](https://napari.org/workshops/)  
+   Pilot virtual introductory workshop on napari, organized by the napari core team.
+
     - [YMIA Python-Based Event Series 2024](https://gerbi-gmb.de/teams/ymia/)  
     (Young Microscopists and Image Analysts, German Bioimaging)
 
@@ -94,18 +109,6 @@ Department of Life Science, National Chung Hsing University, Taiwan
   (Biological Optical Microscopy Platform, University of Melbourne)
 
     - [LIBRE hub: Image data science with Python and Napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html#)
-
-## Organizing Bioimage Analysis Traing Course
-
-- ICOB imaging Core summer imaging workshops
-    - [ICOB core YouTube Playlist](https://www.youtube.com/@icobcore/playlists)
-
-- EABIAS Training event:
-    - [Python for Bioimage Analysis -Watch Party & Discussion](  
-https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
-
-    - [ImageJ 顯微影像分析與程式設計](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
-
 
 
 ## Open-Access Training Materials
@@ -139,6 +142,20 @@ YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLV
 
 
 ## Open-Source Bioimaging Analysis Workflows / Tools
+
+- [LLSM-Batch-Preprocessing](https://github.com/WeiChenChu/LLSM-Batch-Preprocessing)  
+This repository contains customized ImageJ/Fiji macros designed for the preprocessing of large-volume Light-Sheet Microscopy raw image data. These scripts utilize GPU-accelerated processing to suppress background noise, enhance the cellular nuclei signal-to-noise ratio (SNR) for spot detection, and smooth structural boundaries for anatomical segmentation, preparing the data for downstream quantification in Imaris.
+
+- [yeast-nuclear-puncta-cell-counter](https://github.com/WeiChenChu/yeast-nuclear-puncta-cell-counter)  
+A image analysis pipeline for automated detection and quantification of nuclear puncta in yeast fluorescence microscopy images.
+
+- [TF-Nuclear-Translocation-Analysis](https://github.com/WeiChenChu/TF-Nuclear-Translocation-Analysis)  
+This repository provides Python scripts for refining single-cell trajectories and quantitatively measuring stress-induced nuclear translocation of the Dot6–GFP transcription factor from time-lapse microscopy data. The scripts operate after image acquisition, segmentation, and tracking, which are assumed to be performed in Fiji/ImageJ with Trackmate-Cellpose.
+
+- [TIRF_vesicle_colocalize_analysis](https://github.com/WeiChenChu/TIRF_vesicle_colocalize_analysis)  
+This repository contains Python code for analyzing time series TIRF (Total Internal Reflection Fluorescence) microscopy images to identify and track colocalized Glut10 and Rab5 vesicles.
+
+
 - [Cell_Dist_Mesh_Generator](https://github.com/WeiChenChu/Cell_Dist_Mesh_Generator)  
 This repository hosts a FIJI/ImageJ macro tailored for the automated generation of distance meshes between cells, aiding in quantitative visualization.
 

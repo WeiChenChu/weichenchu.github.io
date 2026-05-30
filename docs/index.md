@@ -109,6 +109,11 @@ https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/
 
 
 ## Open-Access Training Materials
+- Practical AI Tools for Bioimage Segmentation: ilastik, Cellpose, and μSAM
+    - Slide in English (mostly): [https://zenodo.org/records/19911180](https://zenodo.org/records/19911180)
+    - YouTube Recording (Mandarin): [https://youtu.be/oUlHOoAfHrI](https://youtu.be/oUlHOoAfHrI)
+
+
 - Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop 2025)
     - Slide in English: [https://doi.org/10.5281/zenodo.15910878](https://doi.org/10.5281/zenodo.15910878)  
     - YouTube Recording (Mandarin): [https://youtu.be/qE78Yqv3UxI](https://youtu.be/qE78Yqv3UxI)

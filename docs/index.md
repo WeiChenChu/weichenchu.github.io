@@ -1,6 +1,6 @@
 <div class="profile-header">
 <div class="text">
-<h1>Wei-Chen CHU, Ph.D.</h1>
+<h1>Wei-Chen CHU (朱韋臣), Ph.D.</h1>
 <ul>
 <li>R&D Scientist<br>ICOB Imaging Core, Academia Sinica, Taiwan</li>
 <li>E-mail: <a href="mailto:weichen01@as.edu.tw">weichen01@as.edu.tw</a></li>
@@ -40,7 +40,6 @@ Graduate Institute of Life Science, National Defense Medical Center, Taiwan
 Department of Life Science, National Chung Hsing University, Taiwan 
 - Bachelor's, Life Science  
 Department of Life Science, National Chung Hsing University, Taiwan
-
 
 ## Core Skills
 - Confocal Microscopy/ Fluorescence microscopy
@@ -105,7 +104,7 @@ https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/
     - [VMCF Bioimage Analysis and Data Processing Workshop 2024-2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html)  
   (Viničná Microscopy Core Facility, Charles University, Czechia)
 
-    - [BOMP Fundamentals of Fluorescence Microscopy 2024-2025](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources)  
+    - [BOMP Fundamentals of Fluorescence Microscopy 2024-2026](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources)  
   (Biological Optical Microscopy Platform, University of Melbourne)
 
     - [LIBRE hub: Image data science with Python and Napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html#)
@@ -116,7 +115,6 @@ https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/
     - Slide in English (mostly): [https://zenodo.org/records/19911180](https://zenodo.org/records/19911180)
     - YouTube Recording (Mandarin): [https://youtu.be/oUlHOoAfHrI](https://youtu.be/oUlHOoAfHrI)
 
-
 - Bioimage Analysis with FIJI and AI tools (@ICOB Summer Bioimaging Workshop 2025)
     - Slide in English: [https://doi.org/10.5281/zenodo.15910878](https://doi.org/10.5281/zenodo.15910878)  
     - YouTube Recording (Mandarin): [https://youtu.be/qE78Yqv3UxI](https://youtu.be/qE78Yqv3UxI)
@@ -126,12 +124,12 @@ https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/
     - YouTube Recording (English): [https://youtu.be/nVYhvsN7Jyg](https://youtu.be/nVYhvsN7Jyg)
 
 - Interactive Bioimage Analysis Workflow with CLIJ (@EABIAS 2025 training event)  
-    - Zendo [https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)   
+    - Slide in English [https://doi.org/10.5281/zenodo.15070246](https://doi.org/10.5281/zenodo.15070246)   
     - YouTube Recording (Mandarin): [https://youtu.be/uheSMSENnzE](https://youtu.be/uheSMSENnzE)
 
 - Introducing to Licensing for Documents and Code (@EABIAS 2025 training event)
     - Slide in English: [GitHub links](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei/blob/main/Lesson_07_Workflow/Lesson_07_Licensing_20250428_v1p1.pdf)  
-YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945](https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945)
+    - YouTube Recording (Mandarin): [https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945](https://youtu.be/iGVps1Qazmo?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&t=4945)
 
 - Open source AI Tools for bioimage analysis workshop (@ICOB Summer Bioimaging Workshop 2024)  
     - Slide in English:  [https://doi.org/10.5281/zenodo.13284351](https://doi.org/10.5281/zenodo.13284351)  

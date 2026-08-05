@@ -63,3 +63,26 @@ that support independent learning and reproducible practice.
 
 - ORCID: [0000-0002-3447-9043](https://orcid.org/0000-0002-3447-9043)
 - GitHub: [github.com/WeiChenChu](https://github.com/WeiChenChu)
+
+
+
+## Explore the Site
+
+<nav class="section-links" aria-label="Main website sections">
+<a href="about/">
+<strong>About</strong>
+<span>Experience, education, honors, community roles, and profile links.</span>
+</a>
+<a href="expertise/">
+<strong>Imaging Support</strong>
+<span>Microscopy planning, acquisition support, analysis, and reproducible workflow development.</span>
+</a>
+<a href="training/">
+<strong>Training</strong>
+<span>Courses, workshops, recordings, slides, and continuing professional development.</span>
+</a>
+<a href="workflows-tools/">
+<strong>Workflows</strong>
+<span>Open-source repositories for practical microscopy analysis problems.</span>
+</a>
+</nav>

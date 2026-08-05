@@ -116,3 +116,26 @@ focus on practical skills, reproducible workflows, and open learning materials.
 - [VMCF Bioimage Analysis and Data Processing Workshop 2024-2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html)
 - [BOMP Fundamentals of Fluorescence Microscopy 2024-2025](https://microscopy.unimelb.edu.au/om/capabilities/workshops-resources)
 - [LIBRE hub: Image data science with Python and napari 2023](https://librehub.github.io/napari-LatAm-workshop-2023/intro.html)
+
+
+
+## Explore the Site
+
+<nav class="section-links" aria-label="Main website sections">
+<a href="about/">
+<strong>About</strong>
+<span>Experience, education, honors, community roles, and profile links.</span>
+</a>
+<a href="expertise/">
+<strong>Imaging Support</strong>
+<span>Microscopy planning, acquisition support, analysis, and reproducible workflow development.</span>
+</a>
+<a href="training/">
+<strong>Training</strong>
+<span>Courses, workshops, recordings, slides, and continuing professional development.</span>
+</a>
+<a href="workflows-tools/">
+<strong>Workflows</strong>
+<span>Open-source repositories for practical microscopy analysis problems.</span>
+</a>
+</nav>

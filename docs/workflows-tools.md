@@ -84,7 +84,7 @@ main workflow steps, software stack, and intended measurement value.
 ## Explore the Site
 
 <nav class="section-links" aria-label="Main website sections">
-<a href="../home/">
+<a href="..">
 <strong>Home</strong>
 <span>Introduction and contact</span>
 </a>

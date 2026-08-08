@@ -69,7 +69,7 @@ that support independent learning and reproducible practice.
 ## Explore the Site
 
 <nav class="section-links" aria-label="Main website sections">
-<a href="../home/">
+<a href="..">
 <strong>Home</strong>
 <span>Introduction and contact</span>
 </a>

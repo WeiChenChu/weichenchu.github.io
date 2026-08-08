@@ -39,19 +39,19 @@ single technical issue or follow an imaging project across several stages.
 ## Explore the Site
 
 <nav class="section-links" aria-label="Main website sections">
-<a href="about/">
+<a href="../home/">
+<strong>Home</strong>
+<span>Introduction and contact</span>
+</a>
+<a href="../about/">
 <strong>About</strong>
 <span>Experience, education, honors, community roles, and profile links.</span>
 </a>
-<a href="expertise/">
-<strong>Imaging Support</strong>
-<span>Microscopy planning, acquisition support, analysis, and reproducible workflow development.</span>
-</a>
-<a href="training/">
+<a href="../training/">
 <strong>Training</strong>
 <span>Courses, workshops, recordings, slides, and continuing professional development.</span>
 </a>
-<a href="workflows-tools/">
+<a href="../workflows-tools/">
 <strong>Workflows</strong>
 <span>Open-source repositories for practical microscopy analysis problems.</span>
 </a>

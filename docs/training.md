@@ -99,8 +99,7 @@ focus on practical skills, reproducible workflows, and open learning materials.
 
 ### In-Person
 
-- [Global BioImaging Train-the-Trainer 2025 Course]
-  Supported by a [Global BioImaging Travel Grant]
+- [Global BioImaging Train-the-Trainer 2025 Course], supported by the Global BioImaging Travel Grant
 - [GloBIAS Bioimage Analysis Training School 2025](https://github.com/GloBIAS-BioimageAnalysts/GloBIAS_Training_School_2025_Kobe_Japan)
   Selected trainee; travel supported by ICOB, Academia Sinica, Taiwan. Award for the project presentation
   [group work](images/honors/GloBIAS_2025_TS_Award.jpg).
